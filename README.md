@@ -11,3 +11,6 @@ After our initial methods test, in September of 2022, Planetary has updated the 
 Each version of the protocol can be found in the GitHub repository.
 
 We invite  your participation in refining our MRV concepts or protocols. We’re hosting discussions and debate about the MRV through GitHub Issues and are also happy to take comments (that we will transpose into GitHub issues) at PlanetaryMRVFeedback@planetarytech.com
+
+
+The Planetary MRV is licensed under the Creative Commons BY-SA-NC license. You can read about it here: https://creativecommons.org/licenses/by-nc-sa/4.0/
